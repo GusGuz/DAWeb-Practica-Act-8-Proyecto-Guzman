@@ -1,4 +1,5 @@
 <?php include('header.php')?>
+<link rel="stylesheet" href="estilos.css">
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
@@ -7,13 +8,13 @@
 
 			<div class="articulo">
 				<article>
-					<p>Descripcion de mi empresa</p>
+					<p>Cine</p>
 					<br/>
-					<p> Continua Descripcion  </p>
+					<p> Registro de empleados para laborar</p>
 					<br/>
-					<p>Continua Descripcion</p>
+					<p>Registro de peliculas para cartelera</p>
 					<br/>
-					<p>Continua Descripcion</p>
+					<p>Pagina de empleados para actualizacion de pagina principal de cine</p>
 				</article>
 			</div>
             <?php include('sidebar.php')?>

@@ -1,4 +1,5 @@
 <?php include('header.php')?>
+<link rel="stylesheet" href="estilos.css">
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">

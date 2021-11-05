@@ -1,10 +1,11 @@
 <?php include('header.php')?>
+<link rel="stylesheet" href="estilos.css">
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
 				<h1>Registro de peliculas</h1>
 			</div>
-
+			<link rel="stylesheet" href="CSS/main.css" type="text/css">
 			<div class="articulo">
 				<form action="process.php" method="post" name="frm">
 					<label>Fecha de Estreno: 
